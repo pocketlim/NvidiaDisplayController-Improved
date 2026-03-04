@@ -14,8 +14,9 @@ This is only for NVIDIA GPU's. Allows you to change display settings and easily 
 - Automatically detects all displays connected to the computer and creates a base default profile for each.
 - Configure settings for up to five profiles for each monitor to easily switch between different configurations.
 - Set a profile as the default so no need to select each time. Optionally, set the default profiles to apply to all monitors on start across all displays.
-- Minimizes to system tray to avoid clutter on taskbar. Click icon to open, right click to close application once minimized.
-- Supports Keyboard shortcuts to allow you to enable specific profiles on the fly. 
+- Minimizes to system tray to avoid clutter on taskbar.
+- **NEW: Click icon to open**, right click to close application once minimized.
+- **NEW: Supports Keyboard shortcuts to allow you to enable specific profiles on the fly.**
 - View selected profiles when hoving mouse over icon in taskbar.
 - Extremely lightweight with low resource use (under 100 MB)
 
